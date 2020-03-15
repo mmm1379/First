@@ -9,7 +9,7 @@ public class Main {
         String b = text.next();
         System.out.println(a+b);
         //this is a comment
-
+        //ok
 
 	System.out.println("\nhello, the program worked!");
 
