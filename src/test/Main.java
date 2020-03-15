@@ -8,6 +8,8 @@ public class Main {
         String a = text.next();
         String b = text.next();
         System.out.println(a+b);
+        //this is a comment
+
 
 	System.out.println("\nhello, the program worked!");
 
