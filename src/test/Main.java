@@ -12,7 +12,7 @@ public class Main {
         //this is a comment
         //ok
 
-	System.out.println("\nhello my friend, the program worked!");
+	System.out.println("\nhello my friend this is a conflict, the program worked!");
     }
 
 
