@@ -11,7 +11,7 @@ public class Main {
         //this is a comment
         //ok
 
-	System.out.println("\nhello, the program worked!");
+	System.out.println("\nhello my friend, the program worked!");
     }
 
 
