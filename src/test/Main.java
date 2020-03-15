@@ -12,6 +12,10 @@ public class Main {
         //ok
 
 	System.out.println("\nhello, the program worked!");
+    }
 
+
+    static int add(int a, int b){
+        return a+b;
     }
 }
